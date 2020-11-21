@@ -77,6 +77,7 @@ The vulnerability works by$red exploiting$blue the Microsoft Server Message Bloc
 The$blue SMB$white is a$red network file sharing protocol$white and$green 'allows applications on a computer to read and write to files and to request services'$white
 that are on the same network.
 Microsoft says the$blue security update$white it issued is$red Critical$white and following$red WannaCry$white it released a rare Windows XP patch after officially ending support for the software in$red 2014$white.
+
 $e or$blue MS17-010$white effects the following versions of Windows systems$green:$nc
 $white+$Cyan Windows Vista$nc
 $white+$Cyan Windows Server 2008$nc
